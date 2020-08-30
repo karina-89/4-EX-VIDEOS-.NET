@@ -1,0 +1,13 @@
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios4\EjercicioVideos\bin\Debug\netcoreapp3.1\EjercicioVideos.exe
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios4\EjercicioVideos\bin\Debug\netcoreapp3.1\EjercicioVideos.deps.json
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios4\EjercicioVideos\bin\Debug\netcoreapp3.1\EjercicioVideos.runtimeconfig.json
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios4\EjercicioVideos\bin\Debug\netcoreapp3.1\EjercicioVideos.runtimeconfig.dev.json
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios4\EjercicioVideos\bin\Debug\netcoreapp3.1\EjercicioVideos.dll
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios4\EjercicioVideos\bin\Debug\netcoreapp3.1\EjercicioVideos.pdb
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios4\EjercicioVideos\obj\Debug\netcoreapp3.1\EjercicioVideos.csprojAssemblyReference.cache
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios4\EjercicioVideos\obj\Debug\netcoreapp3.1\EjercicioVideos.AssemblyInfoInputs.cache
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios4\EjercicioVideos\obj\Debug\netcoreapp3.1\EjercicioVideos.AssemblyInfo.cs
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios4\EjercicioVideos\obj\Debug\netcoreapp3.1\EjercicioVideos.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios4\EjercicioVideos\obj\Debug\netcoreapp3.1\EjercicioVideos.dll
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios4\EjercicioVideos\obj\Debug\netcoreapp3.1\EjercicioVideos.pdb
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios4\EjercicioVideos\obj\Debug\netcoreapp3.1\EjercicioVideos.genruntimeconfig.cache
